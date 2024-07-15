@@ -17,7 +17,7 @@ plugins:
 package:
   individually: true
   patterns:
-    - "!.*/**"
+    - "!*/**"
 
 custom:
   dynamodb:
